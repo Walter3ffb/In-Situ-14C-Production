@@ -27,8 +27,8 @@ Calculates underground muon flux from primary CR and accumulates Carbon-14 in An
 
 ### Junk Notebooks
 
-**MCEq Matrices.ipynb** - First draft of above notebook, now pretty much useless
+**MCEq Matrices.ipynb** - First draft of MCEq Mat 2.ipynb, now pretty much useless
 
-**MCEq test.ipynb** - My first trials of MCEq, includes some code.  Largely useless, though it has some code for getting particle info from MCEq
+**MCEq test.ipynb** - My first trials of MCEq.  Largely useless, though it has some code for getting particle info from MCEq
 
 **Mute test.ipynb** - My first trials of MUTE.  Largely useless.
